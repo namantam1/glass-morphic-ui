@@ -41,7 +41,8 @@ button.primary {
 }
 
 body {
-    background-image: url(./images/glass.png);
+    background-image: url(./images/glass.webp),
+        linear-gradient(to bottom right, #fe7baa, #9780df, #7de9f6);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
